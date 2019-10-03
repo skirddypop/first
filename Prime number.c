@@ -16,15 +16,15 @@ int main()
       if (a%i == 0)
       {
           printf("n is not a prime number");
-        i=a-1;
+          i=a-1;
           b++;
       }
 
   }
-  if (b == 0) {
+  if (b == 0) 
+  {
   printf("n is a Prime number");
   }
-
   return 0;
 }
 
