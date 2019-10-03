@@ -17,5 +17,5 @@ printf("Enter a number");
      a=a/10;
   }
   printf("Reversed Number: %d",s);
-return 0;
+  return 0;
 }
