@@ -9,7 +9,7 @@ int main()
 {
     double i,n,f=1;
 
-    printf("\n enter a number");
+    printf("enter a number\n");
     scanf("%lf",&n);
     for(i=n;i>=1;--i)
     {
