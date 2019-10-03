@@ -8,10 +8,10 @@ LIT2019023*/
 int main()
 {
 
-    int n1,n2,n3,n4;
+    int n1,n2,n3,sum;
     printf("enter the numbers n1, n2, n3 \n");
     scanf("%d %d %d", &n1,&n2,&n3);
-    n4=n1-n2+n3;
-    printf("answer of %d , %d and %d is %d", n1,n2,n3,n4);
+    sum=n1-n2+n3;
+    printf("answer of %d , %d and %d is %d", n1,n2,n3,sum);
     return(4);
 }
