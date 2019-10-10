@@ -3,7 +3,7 @@
 IITP
 LIT2019023*/
 #include<stdio.h>
-#include<stdlib.h>>
+#include<stdlib.h>
  int main()
 {
 int a,b,s=0,d;
