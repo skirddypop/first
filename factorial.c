@@ -7,14 +7,14 @@ LIT2019023*/
 
 int main()
 {
-    double i,n,f=1;
+    int i,n,f=1;
 
     printf("enter a number\n");
-    scanf("%lf",&n);
+    scanf("%d",&n);
     for(i=n;i>=1;--i)
     {
         f=f*i;
     }
-    printf("%lf",f);
+    printf("%d",f);
     return(5);
 }
