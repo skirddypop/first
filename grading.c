@@ -1,5 +1,5 @@
 
-/*Programme to give grade according to marks
+/*Programme to give grade according to marks inputed by the user
 IITP
 LIT2019023*/
 #include <stdio.h>
