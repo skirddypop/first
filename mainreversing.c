@@ -1,5 +1,5 @@
 
-/*Programme to reverse the digits
+/*Programme to reverse the digits of a number
 IITP
 LIT2019023*/
 #include <stdio.h>
